@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "HwimLwPnNJjp1CpVM6/B7DC/fEYRBTASv6Jo0tEigobwRmb8LcSj8WKRsavmrDXI2+N55dbnfvz0AathrWsZ2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vbicherschi\\Desktop\\MyAspNetCore-master\\src\\NewQueryOptionIn8\\NewQueryOptionIn8\\NewQueryOptionIn8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vbicherschi\\.nuget\\packages\\microsoft.aspnetcore.odata\\8.0.6\\microsoft.aspnetcore.odata.8.0.6.nupkg.sha512",
+    "C:\\Users\\vbicherschi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\vbicherschi\\.nuget\\packages\\microsoft.odata.core\\7.9.4\\microsoft.odata.core.7.9.4.nupkg.sha512",
+    "C:\\Users\\vbicherschi\\.nuget\\packages\\microsoft.odata.edm\\7.9.4\\microsoft.odata.edm.7.9.4.nupkg.sha512",
+    "C:\\Users\\vbicherschi\\.nuget\\packages\\microsoft.odata.modelbuilder\\1.0.8\\microsoft.odata.modelbuilder.1.0.8.nupkg.sha512",
+    "C:\\Users\\vbicherschi\\.nuget\\packages\\microsoft.spatial\\7.9.4\\microsoft.spatial.7.9.4.nupkg.sha512",
+    "C:\\Users\\vbicherschi\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512",
+    "C:\\Users\\vbicherschi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\vbicherschi\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\vbicherschi\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
